@@ -1,65 +1,62 @@
-<!-- Cyberpunk Cosmic README -->
+<h1 align="center">Trevor Kutto</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120px" />
+  Cybersecurity &middot; Cloud &amp; DevSecOps &middot; Full-stack Engineering
 </p>
 
-<h1 align="center">👾 Sigh0pss — Cyber Sentinel of the Stars 👾</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;DevSecOps+Engineer;Cloud+Defender;Alien+Code+Breaker;Security+First+Always;Mkenya+Daima" alt="Typing SVG" />
-</p>
-
----
-
-### 🌌 About Me
-Welcome to my **cosmic GitHub terminal**, human! (you found me)  
-myname is Jeff, jk . I’m Sigh0pss, a **Cybersecurity & Cloud DevSecOps explorer** 🚀.  
-
-I secure, automate, and defend systems across the **galaxy of code**.  
-Think of me as the **shield between your stack and the cyber void**. LOL
-
----
-
-### 🛡️ My Arsenal
-- 🛰️ **Cybersecurity**: Threat hunting, incident response, SOC analysis, vulnerability management  
-- 🌐 **DevSecOps**: CI/CD pipelines, IaC, container hardening, security automation  
-- ☁️ **Cloud Defense**: Azure | AWS | Hybrid environments | Identity & Access Management  
-- 🧩 **Programming & Tools**: Python, Bash, Docker, Kubernetes, Terraform, GitHub Actions  
-- 🔒 **AI + Security**: Leveraging AI for anomaly detection & intelligent defense  
-
----
-
-### 👽 Tools I Speak
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,docker,kubernetes,terraform,aws,azure" />
+  <a href="https://github.com/Sighopss"><img src="https://img.shields.io/badge/GitHub-Sighopss-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://medium.com/@tkutto"><img src="https://img.shields.io/badge/Medium-@tkutto-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Ottawa,%20Canada-2E7D32?style=flat-square" alt="Location" />
 </p>
 
 ---
 
-### 🌠 Shooting Stars
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600px" />
+## About
+
+I build and secure systems across the full stack, from infrastructure to interface. My focus is cloud-native engineering, DevSecOps automation, and applied security: shipping production services on AWS and Azure, hardening the pipelines that deliver them, and researching how those systems fail.
+
+I am currently completing cloud and DevOps studies at Algonquin College in Ottawa, and I work on AI-assisted products, container and Kubernetes platforms, and privacy and anti-censorship tooling.
+
+## Technical skills
+
+**Cloud and infrastructure**
+AWS (Lambda, Bedrock, API Gateway, DynamoDB, S3, Amplify, Polly, Transcribe), Azure (Functions, Bicep, IoT, MLOps), Terraform, Docker, Kubernetes, RabbitMQ, GitHub Actions, CI/CD.
+
+**DevSecOps and security**
+Infrastructure as code, container hardening, security automation in CI/CD, vulnerability research, LLM and application security, privacy and anti-censorship engineering.
+
+**Software engineering**
+Python, TypeScript, JavaScript, Go, Rust, Java, C++, Solidity, Bash, PowerShell. Next.js, React, Vue, Node.js, microservices, WebSockets, REST APIs.
+
+**AI and data**
+Generative AI applications on Amazon Bedrock, retrieval-grounded systems, MLOps pipelines, real-time IoT data processing.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,python,typescript,go,rust,nextjs,react,vue,nodejs,solidity,linux,bash,git,githubactions" alt="Tech stack" />
 </p>
 
----
+## Featured projects
 
-### 📡 Current Mission
-- 🌍 God of  **Cybersecurity**  
-- 🔭 Expanding skills in **DevSecOps & Cloud Security**  
-- 👾 Building a portfolio of **cosmic cyber projects**  
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| **CanGrant** | AI assistant for winning Canadian non-dilutive grants. Drafts, scores, and matches proposals using AI grounded in real funded applications, with voice interaction and NSERC-formatted PDF export. | Next.js, AWS Lambda, Bedrock, DynamoDB, S3 |
+| **[Algonquin Pet Store on Steroids](https://github.com/Sighopss/Algonquin-pet-store-on-steroids-complete)** | Cloud-native microservices reference platform for DevSecOps practice, with polyglot services and message-driven workflows on Kubernetes. | Rust, Go, Python, Vue, Kubernetes, RabbitMQ |
+| **[Rideau Canal Monitoring](https://github.com/Sighopss/rideau-canal-monitoring)** | Real-time IoT monitoring system: sensor simulation, stream processing, and a live web dashboard. | Azure IoT, Python, JavaScript |
+| **TikitiSalama** | Full-stack ticketing platform exploring secure, verifiable ticketing with smart contracts. _(private)_ | TypeScript, Solidity, Docker |
 
----
+## GitHub activity
 
-### 🛸 Let’s Connect
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/N0t%20today%20OPSEC!-FF0000?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sighopss&show_icons=true&hide_border=true&count_private=true&theme=graywhite" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sighopss&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="Top languages" />
 </p>
 
----
+## Connect
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="300px" />
-</p>
-
-<h3 align="center">⚡ Protecting systems, one star at a time ⚡</h3>
+- GitHub: [@Sighopss](https://github.com/Sighopss)
+- Medium: [@tkutto](https://medium.com/@tkutto)
+<!-- Add your LinkedIn and a contact email below when ready:
+- LinkedIn: https://www.linkedin.com/in/your-handle
+- Email: you@example.com
+-->
