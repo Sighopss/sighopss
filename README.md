@@ -36,19 +36,14 @@ Generative AI applications on Amazon Bedrock, retrieval-grounded systems, MLOps 
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,python,typescript,go,rust,nextjs,react,vue,nodejs,solidity,linux,bash,git,githubactions" alt="Tech stack" />
 </p>
 
-## Featured projects
-
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| **CanGrant** | AI assistant for winning Canadian non-dilutive grants. Drafts, scores, and matches proposals using AI grounded in real funded applications, with voice interaction and NSERC-formatted PDF export. | Next.js, AWS Lambda, Bedrock, DynamoDB, S3 |
-| **[Algonquin Pet Store on Steroids](https://github.com/Sighopss/Algonquin-pet-store-on-steroids-complete)** | Cloud-native microservices reference platform for DevSecOps practice, with polyglot services and message-driven workflows on Kubernetes. | Rust, Go, Python, Vue, Kubernetes, RabbitMQ |
-| **[Rideau Canal Monitoring](https://github.com/Sighopss/rideau-canal-monitoring)** | Real-time IoT monitoring system: sensor simulation, stream processing, and a live web dashboard. | Azure IoT, Python, JavaScript |
-| **TikitiSalama** | Full-stack ticketing platform exploring secure, verifiable ticketing with smart contracts. _(private)_ | TypeScript, Solidity, Docker |
-
 ## GitHub activity
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sighopss&show_icons=true&hide_border=true&count_private=true&theme=graywhite" alt="GitHub stats" />
+  <img src="https://img.shields.io/badge/Activity-B%2B-2E7D32?style=flat-square" alt="GitHub activity grade B+" />
+</p>
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sighopss&show_icons=true&hide_rank=true&hide_border=true&count_private=true&theme=graywhite" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sighopss&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="Top languages" />
 </p>
 
