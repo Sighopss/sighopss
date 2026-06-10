@@ -36,17 +36,6 @@ Generative AI applications on Amazon Bedrock, retrieval-grounded systems, MLOps 
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,python,typescript,go,rust,nextjs,react,vue,nodejs,solidity,linux,bash,git,githubactions" alt="Tech stack" />
 </p>
 
-## GitHub activity
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Activity-B%2B-2E7D32?style=flat-square" alt="GitHub activity grade B+" />
-</p>
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sighopss&show_icons=true&hide_rank=true&hide_border=true&count_private=true&theme=graywhite" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sighopss&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="Top languages" />
-</p>
-
 ## Connect
 
 - GitHub: [@Sighopss](https://github.com/Sighopss)
