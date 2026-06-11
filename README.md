@@ -16,7 +16,6 @@
 
 <p align="center">
   <a href="https://github.com/Sighopss"><img src="https://img.shields.io/badge/GitHub-Sighopss-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://sighopss.github.io/"><img src="https://img.shields.io/badge/Website-sighopss.github.io-6366F1?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://medium.com/@tkutto"><img src="https://img.shields.io/badge/Medium-@tkutto-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Ottawa,%20Canada-2E7D32?style=flat-square" alt="Location" />
 </p>
