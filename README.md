@@ -47,8 +47,6 @@ Intake → Slack HITL → Bedrock agents → Report PDF → Deck
 
 **Highlights:** Multi-agent Research → Strategy → Technical pipeline · KB admin with presigned S3 uploads · Multi-wave DevSecOps hardening (IAM, sigv4, CloudWatch)
 
-🔗 **[vibe.acceleratorhub.ai](https://vibe.acceleratorhub.ai)** · **[admin.acceleratorhub.ai](https://admin.acceleratorhub.ai)**
-
 </td>
 <td width="50%" valign="top">
 
