@@ -24,20 +24,18 @@
 
 ## About
 
-I build and secure systems across the full stack — from infrastructure to interface. My focus is cloud-native engineering, DevSecOps automation, and applied AI: shipping production LLM products on AWS, hardening the pipelines that deliver them, and researching how those systems fail under real load.
+I build and secure systems across the full stack, from infrastructure to interface. My focus is cloud-native engineering, DevSecOps automation, and applied AI: shipping production LLM products on AWS, hardening the pipelines that deliver them, and researching how those systems fail under real load.
 
-Currently at **Algonquin College’s AI Accelerator** in Ottawa, shipping multi-agent platforms, RAG-grounded grant tools, automated news pipelines, and a 24/7 AI radio station — with security baked in, not bolted on.
+Currently at **Algonquin College's AI Accelerator** in Ottawa, shipping multi-agent platforms, RAG-grounded grant tools, automated news pipelines, and a 24/7 AI radio station, with security work built into the delivery process.
 
-## 🚀 Things I've shipped
-
-> *Production AI systems. Real AWS bills. Zero “demo day only” deployments.*
+## Things I've shipped
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 VIBE — AgentCore HITL Platform
-**The flagship.** Slack-approved AI strategy reports, end to end.
+### VIBE: AgentCore HITL Platform
+Slack-approved AI strategy reports, end to end.
 
 ```
 Intake → Slack HITL → Bedrock agents → Report PDF → Deck
@@ -50,8 +48,8 @@ Intake → Slack HITL → Bedrock agents → Report PDF → Deck
 </td>
 <td width="50%" valign="top">
 
-### 🇨🇦 CanGrant AI
-**Grant intelligence for Canadian founders.** RAG grounded in $1.4M+ of real winning proposals.
+### CanGrant AI
+Grant intelligence for Canadian founders. RAG grounded in $1.4M+ of real winning proposals.
 
 ```
 Match grants → Draft sections → Score 0–100 → Export NSERC PDF
@@ -66,8 +64,8 @@ Match grants → Draft sections → Score 0–100 → Export NSERC PDF
 <tr>
 <td width="50%" valign="top">
 
-### 📻 Kev FM — AI News Radio
-**A 24/7 AI radio station.** DJ Kev never repeats the same break twice.
+### Kev FM: AI News Radio
+A 24/7 AI radio station. DJ Kev never repeats the same break twice.
 
 ```
 Claude writes break → Polly voices it → HLS streams to every listener
@@ -80,8 +78,8 @@ Claude writes break → Polly voices it → HLS streams to every listener
 </td>
 <td width="50%" valign="top">
 
-### 📰 AI News Hub
-**Your morning briefing, automated.** 19 RSS sources, summarized daily by Bedrock.
+### AI News Hub
+Automated news from 19 RSS sources, summarized daily by Bedrock.
 
 ```
 RSS × 19 → Dedup → Bedrock summary → React dashboard
@@ -123,7 +121,7 @@ Generative AI on Amazon Bedrock, multi-agent pipelines (AgentCore), retrieval-gr
 
 ## Connect
 
-- Portfolio: **[sighopss.github.io](https://sighopss.github.io/)** — experience, projects & stack
+- Portfolio: **[sighopss.github.io](https://sighopss.github.io/)** (experience, projects, stack)
 - GitHub: [@Sighopss](https://github.com/Sighopss)
 - Medium: [@tkutto](https://medium.com/@tkutto)
 - LinkedIn: [trevor-kutto](https://www.linkedin.com/in/trevor-kutto-b52782327)
