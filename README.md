@@ -37,6 +37,8 @@ Currently at **Algonquin College's AI Accelerator** in Ottawa, shipping multi-ag
 ### VIBE: AgentCore HITL Platform
 Slack-approved AI strategy reports, end to end.
 
+grant system made in typescript react and elements of rust 
+
 ```
 Intake → Slack HITL → Bedrock agents → Report PDF → Deck
 ```
